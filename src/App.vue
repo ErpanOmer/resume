@@ -5,6 +5,16 @@
     <Skill/>
     <Title title="工作经历"/>
     <Company/>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <Title title="项目经历"/>
+    <Project/>
   </div>
 </template>
 
@@ -13,6 +23,7 @@ import Who from '@/components/Who.vue'
 import Title from '@/components/Title.vue'
 import Skill from '@/components/Skill.vue'
 import Company from '@/components/Company'
+import Project from '@/components/Project/index.vue'
 
 export default {
   name: 'App',
@@ -20,7 +31,8 @@ export default {
     Who,
     Title,
     Skill,
-    Company
+    Company,
+    Project
   }
 }
 </script>
