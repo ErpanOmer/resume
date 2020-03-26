@@ -11,8 +11,6 @@
     <br>
     <br>
     <br>
-    <br>
-    <br>
     <Title title="项目经历"/>
     <Project/>
   </div>
