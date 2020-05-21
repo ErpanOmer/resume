@@ -8,3 +8,5 @@ if (true) {
 }
 
 console.log('var3', x)
+
+lis.indexOf(target)
